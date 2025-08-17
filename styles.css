@@ -1,0 +1,225 @@
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    background-color: #a5d4f5; 
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    
+    
+}
+.myself{
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+    display: block;
+    border-radius:50%;
+    margin: auto;
+    
+   
+}
+.center {
+    display: flex;
+    padding: 0px 20px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.center p {
+    text-align: center;
+    max-width: 800px;
+    line-height: 1.8;
+    margin: 20px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+
+.center h1 {
+    margin-bottom: 30px;
+    letter-spacing: 5px;
+    font-weight: lighter;
+    font-size: 3rem;
+
+}
+.right{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.image {
+    display: flex;              
+    justify-content: center;      
+    gap: 10px;   
+   
+}
+.image img {
+    width: 350px;
+    height: auto;
+}
+.awards{
+    background-color: #a5d4f5;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 20px;
+}
+.awards i{
+    text-align: center;
+    max-width: 800px;
+    line-height: 1.8;
+    margin: 20px 0;
+    font-size: larger;
+}
+
+.project h1 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.project a {
+    margin-right: 40px;
+    display: inline-block;
+}
+.project{
+    text-align: center;
+  
+}
+.project p {
+
+    background-color: #a5d4f5; 
+    padding: 40px;
+    font-size: larger;
+    word-spacing: 2px;
+
+}
+.certificate h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+.certificate{
+    text-align: center;
+}
+.certificate img{
+    height: 300px;
+    width: 400px;
+    margin-bottom: 50px;
+}
+
+.certificate p {
+    background-color: #a5d4f5; 
+    font-size: large;
+    padding: 40px;
+}
+
+.research{
+    text-align: center;
+}
+
+.research img{
+    height: 900px;
+    width: 1000px;
+}
+.research h1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+
+}
+
+.research p {
+    
+    max-width: 800px;
+    line-height: 1.8;
+    margin: 40px auto;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    color: #3e424b;
+
+}
+
+.contact {
+    background-color: #a5d4f5;
+    padding: 50px;
+}
+
+.contact h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+.contact-item h3 {
+
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: x-large;
+    color: #3A3B3C;
+    margin-left: 20%;
+   
+
+}
+
+.contact-item a {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: larger;
+    color: #616161;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    margin-left: 20%;
+    
+}
+.social{
+
+    text-align: center;
+}
+.social h1{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: #3A3B3C;
+
+}
+
+.social img{
+
+    border-radius: 5px;
+
+}
+.footer {
+    text-align: center;
+    padding: 60px;
+    color: #3A3B3C;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: #a5d4f5;
+    margin-top: 50px;
+  
+  
+
+}
+
+
